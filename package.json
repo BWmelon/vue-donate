@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "animate.css": "^3.7.2",
+    "vue-circle-menu": "^1.1.1",
+    "vue-qr": "^2.1.0"
+  }
+}
